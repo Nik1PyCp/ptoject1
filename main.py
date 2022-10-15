@@ -1,2 +1,1 @@
-print("Hello world!")
-print(2+2)
+number1 = input("Веддіть перше число:")
